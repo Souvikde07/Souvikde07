@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Souvik!
-👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>🎨 Currently working as a Backend Firmware Developer @[SATO GLOBAL](https://www.sato-global.com/) in Tokyo, Japan<br>🧑‍🎓 Studied Computer Science Engineering from Ramaiah University of Applied Science, Bengaluru, India<br>🌱 I’m currently learning Web Technologies such as React and Next.js for Frontend and Express and Node.js, MySQL, PostgreSQL, and MongoDB for Backend.<br>💬 Ask me about sports and Technologies<br>🌷#learninginpublic in my digital space
+👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>🎨 Currently working as a Backend Firmware Developer @[SATO GLOBAL](https://www.sato-global.com/) in Tokyo, Japan<br>🧑‍🎓 Studied Computer Science Engineering from Ramaiah University of Applied Science, Bengaluru, India<br>🌱 I’m currently learning Web Technologies such as React and Next.js for Frontend, Express.js and MongoDB for Backend.<br>💬 Ask me about sports and Technologies<br>🌷#learninginpublic in my digital space
 
 
 ## 🌐 Socials
